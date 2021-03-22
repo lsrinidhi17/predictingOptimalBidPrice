@@ -1,6 +1,6 @@
-# Predicting Optimal Bid Price Strategy for Advertising Data
+# Predicting Optimal Bid Price Strategy for campaign data
 
-## OBJECTIVE
+## Objective
 A basic machine learning model that uses the associated criteo dataset and predicts the optimal bid price for the next period based on the included features.
 
 ## Source
